@@ -5,7 +5,7 @@ Nigeria Banks is a basic python package that returns details of particular bank 
 
 ## Installation
 
-You can install Cbn Bankss from [PyPI](https://pypi.org/project/nigeria_banks/):
+You can install nigeria_banks from [PyPI](https://pypi.org/project/nigeria_banks/):
 
     pip install nigeria_banks
 
