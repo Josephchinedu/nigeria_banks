@@ -5,7 +5,7 @@ def getBank(name=None, bank_code=None, cbn_code=None, ussd_code = None):
     data = bankdb()
     if name:
         for bank in data:
-            if bank["bank_short_name"] == name:
+            if (bank["bank_short_name"]).lower() == name.lower():
                 return bank
     elif bank_code:
         for bank in data:
