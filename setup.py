@@ -13,7 +13,7 @@ from setuptools import find_packages, setup, Command
 
 NAME = 'nigeria_banks'
 DESCRIPTION = 'Get details of specific bank in Nigeria'
-URL = 'https://github.com/Josephchinedu/nigeria_bank_codes'
+URL = 'https://github.com/Josephchinedu/nigeria_banks'
 EMAIL = 'joseph4jubilant@gmail.com'
 AUTHOR = 'Devjoseph'
 REQUIRES_PYTHON = '>=3.7.9'
