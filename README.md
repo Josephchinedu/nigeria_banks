@@ -1,7 +1,7 @@
-📦 nigeria_banks
+📦 nigeria_banks 
 =======================
 
-Cbn Banks is a basic python package that returns details of particular bank in Nigeria.
+Nigeria Banks is a basic python package that returns details of particular bank in Nigeria.
 
 ## Installation
 
