@@ -20,7 +20,7 @@ def getBank(name=None, bank_code=None, cbn_code=None, ussd_code = None):
             return None
         for bank in data:
             if bank["ussd_code"] == ussd_code:
-                return data
+                return bank
     return None
 
 
