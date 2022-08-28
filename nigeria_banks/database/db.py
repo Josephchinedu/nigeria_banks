@@ -6,7 +6,7 @@ def bankdb():
             "name":"Access Bank Nigeria",
             "bank_short_name":"access",
             "ussd_code":"*901#",
-            "logo":"localhost:8080/static/images/access.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/access.png"
         },
         {
             "bank_code":"090001",
@@ -14,7 +14,7 @@ def bankdb():
             "name":"Aso Savings And Loans",
             "bank_short_name":"aso-savings",
             "ussd_code":"",
-            "logo":"localhost:8080/static/images/aso-savings.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/aso-savings.png"
         },
         {
             "bank_code":"090154",
@@ -22,7 +22,7 @@ def bankdb():
             "name":"CEMCS MFB",
             "bank_short_name":"cemcs",
             "ussd_code":"",
-            "logo":"localhost:8080/static/images/cemcs.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/cemcs.png"
         },
         {
             "bank_code":"000009",
@@ -30,7 +30,7 @@ def bankdb():
             "name":"Citibank Nigeria",
             "bank_short_name":"citibankng",
             "ussd_code":"",
-            "logo":"localhost:8080/static/images/citibankng.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/citibankng.png"
         },
         {
             "bank_code":"000010",
@@ -38,7 +38,7 @@ def bankdb():
             "name":"Ecobank Bank",
             "bank_short_name":"ecobank",
             "ussd_code":"*326#",
-            "logo":"localhost:8080/static/images/ecobank.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/ecobank.png"
         },
         {
             "bank_code":"090097",
@@ -46,7 +46,7 @@ def bankdb():
             "name":"Ekondo MFB",
             "bank_short_name":"ekondo",
             "ussd_code":"*540*178#",
-            "logo":"localhost:8080/static/images/ekondo.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/ekondo.png"
         },
         {
             "bank_code":"000007",
@@ -54,7 +54,7 @@ def bankdb():
             "name":"Fidelity Bank",
             "bank_short_name":"fidelity",
             "ussd_code":"*770#",
-            "logo":"localhost:8080/static/images/fidelity.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/fidelity.png"
         },
         {
             "bank_code":"000016",
@@ -62,7 +62,7 @@ def bankdb():
             "name":"First Bank of Nigeria",
             "bank_short_name":"firstbank",
             "ussd_code":"*894#",
-            "logo":"localhost:8080/static/images/firstbank.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/firstbank.png"
         },
         {
             "bank_code":"000003",
@@ -70,7 +70,7 @@ def bankdb():
             "name":"First City Monument Bank",
             "bank_short_name":"fcmb",
             "ussd_code":"*329#",
-            "logo":"localhost:8080/static/images/fcmb.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/fcmb.png"
         },
         {
             "bank_code":"000013",
@@ -78,7 +78,7 @@ def bankdb():
             "name":"Guaranty Trust Bank",
             "bank_short_name":"gtb",
             "ussd_code":"*737#",
-            "logo":"localhost:8080/static/images/gtb.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/gtb.png"
         },
         {
             "bank_code":"090121",
@@ -86,7 +86,7 @@ def bankdb():
             "name":"Hasal MFB",
             "bank_short_name":"mfb",
             "ussd_code":"*322*127#",
-            "logo":"localhost:8080/static/images/mfb.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/mfb.png"
         },
         {
             "bank_code":"000020",
@@ -94,7 +94,7 @@ def bankdb():
             "name":"Heritage Bank",
             "bank_short_name":"heritage",
             "ussd_code":"*322#",
-            "logo":"localhost:8080/static/images/heritage.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/heritage.png"
         },
         {
             "bank_code":"000006",
@@ -102,7 +102,7 @@ def bankdb():
             "name":"Jaiz Bank",
             "bank_short_name":"jaiz",
             "ussd_code":"*389*301#",
-            "logo":"localhost:8080/static/images/jaiz.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/jaiz.png"
         },
         {
             "bank_code":"000002",
@@ -110,7 +110,7 @@ def bankdb():
             "name":"Keystone Bank",
             "bank_short_name":"keystone",
             "ussd_code":"*7111#",
-            "logo":"localhost:8080/static/images/keystone.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/keystone.png"
         },
         {
             "bank_code":"090267",
@@ -118,7 +118,7 @@ def bankdb():
             "name":"Kuda MFB",
             "bank_short_name":"kuda",
             "ussd_code":"",
-            "logo":"localhost:8080/static/images/kuda.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/kuda.png"
         },
         {
             "bank_code":"100026",
@@ -126,7 +126,7 @@ def bankdb():
             "name":"One Finance",
             "bank_short_name":"one-finace",
             "ussd_code":"*1303#",
-            "logo":"localhost:8080/static/images/one-finace.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/one-finace.png"
         },
         {
             "bank_code":"090004",
@@ -134,7 +134,7 @@ def bankdb():
             "name":"Parallex MFB",
             "bank_short_name":"parallex",
             "ussd_code":"*322*318*0#",
-            "logo":"localhost:8080/static/images/parallex.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/parallex.png"
         },
         {
             "bank_code":"000008",
@@ -142,7 +142,7 @@ def bankdb():
             "name":"Polaris Bank",
             "bank_short_name":"PBL",
             "ussd_code":"*833#",
-            "logo":"localhost:8080/static/images/PBL.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/PBL.png"
         },
         {
             "bank_code":"000023",
@@ -150,7 +150,7 @@ def bankdb():
             "name":"Providus Bank",
             "bank_short_name":"providus",
             "ussd_code":"",
-            "logo":"localhost:8080/static/images/providus.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/providus.png"
         },
         {
             "bank_code":"090175",
@@ -158,7 +158,7 @@ def bankdb():
             "name":"Rubies MFB",
             "bank_short_name":"RMB",
             "ussd_code":"*7797#",
-            "logo":"localhost:8080/static/images/RMB.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/RMB.png"
         },
         {
             "bank_code":"090325",
@@ -166,7 +166,7 @@ def bankdb():
             "name":"Sparkle Bank",
             "bank_short_name":"SPKL",
             "ussd_code":"",
-            "logo":"localhost:8080/static/images/SPKL.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/SPKL.png"
         },
         {
             "bank_code":"000012",
@@ -174,7 +174,7 @@ def bankdb():
             "name":"Stanbic IBTC",
             "bank_short_name":"stanbic",
             "ussd_code":"*909#",
-            "logo":"localhost:8080/static/images/stanbic.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/stanbic.png"
         },
         {
             "bank_code":"000021",
@@ -182,7 +182,7 @@ def bankdb():
             "name":"Standard Chartered Bank",
             "bank_short_name":"standard-chartered",
             "ussd_code":"",
-            "logo":"localhost:8080/static/images/standard-chartered.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/standard-chartered.png"
         },
         {
             "bank_code":"000001",
@@ -190,7 +190,7 @@ def bankdb():
             "name":"Sterling Bank",
             "bank_short_name":"sterling",
             "ussd_code":"*822#",
-            "logo":"localhost:8080/static/images/sterling.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/sterling.png"
         },
         {
             "bank_code":"000022",
@@ -198,7 +198,7 @@ def bankdb():
             "name":"Suntrust Bank",
             "bank_short_name":"suntrust",
             "ussd_code":"*5230#",
-            "logo":"localhost:8080/static/images/suntrust.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/suntrust.png"
         },
         {
             "bank_code":"000026",
@@ -206,7 +206,7 @@ def bankdb():
             "name":"Taj Bank",
             "bank_short_name":"taj-bank",
             "ussd_code":"*898#",
-            "logo":"localhost:8080/static/images/taj-bank.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/taj-bank.png"
         },
         {
             "bank_code":"090115",
@@ -214,7 +214,7 @@ def bankdb():
             "name":"TCF MFB",
             "bank_short_name":"tcf-bank",
             "ussd_code":"*908#",
-            "logo":"localhost:8080/static/images/tcf-bank.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/tcf-bank.png"
         },
         {
             "bank_code":"000025",
@@ -222,7 +222,7 @@ def bankdb():
             "name":"Titan Trust Bank",
             "bank_short_name":"titan-trust",
             "ussd_code":"*922#",
-            "logo":"localhost:8080/static/images/titan-trust.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/titan-trust.png"
         },
         {
             "bank_code":"000018",
@@ -230,7 +230,7 @@ def bankdb():
             "name":"Union Bank of Nigeria",
             "bank_short_name":"unionbank",
             "ussd_code":"*826#",
-            "logo":"localhost:8080/static/images/unionbank.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/unionbank.png"
         },
         {
             "bank_code":"000004",
@@ -238,7 +238,7 @@ def bankdb():
             "name":"United Bank for Africa",
             "bank_short_name":"uba",
             "ussd_code":"*919#",
-            "logo":"localhost:8080/static/images/uba.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/uba.png"
         },
         {
             "bank_code":"000011",
@@ -246,7 +246,7 @@ def bankdb():
             "name":"Unity Bank",
             "bank_short_name":"unity-bank",
             "ussd_code":"*7799#",
-            "logo":"localhost:8080/static/images/unity-bank.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/unity-bank.png"
         },
         {
             "bank_code":"090110",
@@ -254,7 +254,7 @@ def bankdb():
             "name":"VFD MFB",
             "bank_short_name":"vfd",
             "ussd_code":"",
-            "logo":"localhost:8080/static/images/vfd.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/vfd.png"
         },
         {
             "bank_code":"000017",
@@ -262,7 +262,7 @@ def bankdb():
             "name":"Wema Bank",
             "bank_short_name":"wema",
             "ussd_code":"*945#",
-            "logo":"localhost:8080/static/images/wema.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/wema.png"
         },
         {
             "bank_code":"000015",
@@ -270,7 +270,7 @@ def bankdb():
             "name":"Zenith Bank",
             "bank_short_name":"zenith",
             "ussd_code":"*966#",
-            "logo":"localhost:8080/static/images/zenith.png"
+            "logo":"https://nigeria-banks.onrender.com/static/images/zenith.png"
         }
     ]
 
