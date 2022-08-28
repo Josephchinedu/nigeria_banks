@@ -14,8 +14,8 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 def home():
     return bankdb()
 
-if __name__ == "__main__":
-    uvicorn.run("app:app", host="127.0.0.1", port=8080)
+# if __name__ == "__main__":
+#     uvicorn.run("app:app", host="127.0.0.1", port=8080)
 
 
 @app.get("/images")
