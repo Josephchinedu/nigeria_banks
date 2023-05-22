@@ -17,7 +17,7 @@ URL = 'https://github.com/Josephchinedu/nigeria_banks'
 EMAIL = 'joseph4jubilant@gmail.com'
 AUTHOR = 'Devjoseph'
 REQUIRES_PYTHON = '>=3.7.9'
-VERSION = '0.1.5'
+VERSION = '0.1.6'
 
 REQUIRED = [
     # 'requests', 'maya', 'records',
