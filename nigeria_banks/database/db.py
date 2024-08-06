@@ -309,7 +309,7 @@ def bankdb():
             "cbn_code": "023",
             "name": "Citibank Nigeria",
             "bank_short_name": "citibankng",
-            "ussd_code": "",
+            "ussd_code": "*898#",
             "logo": "https://nigeria-banks.onrender.com/static/images/citibankng.png",
         },
         {
@@ -621,7 +621,7 @@ def bankdb():
             "cbn_code": "",
             "name": "Finatrust MFB",
             "bank_short_name": "",
-            "ussd_code": "",
+            "ussd_code": "*614*027#",
             "logo": "",
         },
         {
@@ -789,7 +789,7 @@ def bankdb():
             "cbn_code": "00103",
             "name": "Globus Bank",
             "bank_short_name": "",
-            "ussd_code": "",
+            "ussd_code": "*989#",
             "logo": "",
         },
         {
@@ -1189,7 +1189,7 @@ def bankdb():
             "cbn_code": "",
             "name": "Mainstreet MFB",
             "bank_short_name": "",
-            "ussd_code": "",
+            "ussd_code": "*540*394#",
             "logo": "",
         },
         {
@@ -1789,7 +1789,7 @@ def bankdb():
             "cbn_code": "068",
             "name": "Standard Chartered Bank",
             "bank_short_name": "standard-chartered",
-            "ussd_code": "",
+            "ussd_code": "*977#",
             "logo": "https://nigeria-banks.onrender.com/static/images/standard-chartered.png",
         },
         {
@@ -2005,7 +2005,7 @@ def bankdb():
             "cbn_code": "566",
             "name": "VFD MFB",
             "bank_short_name": "vfd",
-            "ussd_code": "",
+            "ussd_code": "*5037#",
             "logo": "https://nigeria-banks.onrender.com/static/images/vfd.png",
         },
         {
