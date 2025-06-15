@@ -21,7 +21,7 @@ def bankdb():
             "cbn_code": "51204",
             "name": "Above Only MFB",
             "bank_short_name": "above-only-mfb",
-            "ussd_code": "",
+            "ussd_code": "*540*283#",
             "logo": "https://nigeria-banks.onrender.com/static/images/above-only-mfb.png",
         },
         {
@@ -234,7 +234,7 @@ def bankdb():
         },
         {
             "bank_code": "070015",
-            "cbn_code": "",
+            "cbn_code": "070015",
             "name": "Brent Mortgage Bank",
             "bank_short_name": "",
             "ussd_code": "",
@@ -377,12 +377,12 @@ def bankdb():
             "logo": "",
         },
         {
-            "bank_code": "",
+            "bank_code": "50162",
             "cbn_code": "50162",
             "name": "Dot Microfinance Bank",
             "bank_short_name": "dot-microfinance-bank-ng",
-            "ussd_code": "",
-            "bank_logo": "",
+            "ussd_code": "*5525#",
+            "bank_logo": "https://nigeria-banks.onrender.com/static/images/dot.webp",
         },
         {
             "bank_code": "090156",
@@ -398,7 +398,7 @@ def bankdb():
             "name": "Eagle Flight MFB",
             "bank_short_name": "",
             "ussd_code": "",
-            "logo": "",
+            "logo": "https://nigeria-banks.onrender.com/static/images/efmfb.jpg",
         },
         {
             "bank_code": "100021",
@@ -1094,7 +1094,7 @@ def bankdb():
             "name": "Kredi Bank",
             "bank_short_name": "",
             "ussd_code": "",
-            "logo": "",
+            "logo": "https://nigeria-banks.onrender.com/static/images/kredi.png",
         },
         {
             "bank_code": "090267",
@@ -1157,8 +1157,9 @@ def bankdb():
             "cbn_code": "303",
             "name": "Lotus Bank",
             "bank_short_name": "lotus-bank",
-            "ussd_code": "",
-            "bank_logo": "",
+            "ussd_code": "*5045#",
+            "bank_logo": "https://nigeria-banks.onrender.com/static/images/lotus.png"
+            "",
         },
         {
             "bank_code": "090265",
@@ -1325,7 +1326,7 @@ def bankdb():
             "cbn_code": "",
             "name": "New Prudential Bank",
             "bank_short_name": "",
-            "ussd_code": "",
+            "ussd_code": "*772#",
             "logo": "",
         },
         {
@@ -1366,7 +1367,7 @@ def bankdb():
             "name": "Nova Merchant Bank",
             "bank_short_name": "",
             "ussd_code": "",
-            "logo": "",
+            "logo": "https://nigeria-banks.onrender.com/static/images/nova.jpeg",
         },
         {
             "bank_code": "090119",
